@@ -60,6 +60,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Muhammad Miftah Faqih](https://github.com/miftahfqih) [MIT]
   > As an academician.
+  > Website link -> [https://portofolio-miftahfqih.vercel.app/](https://portofolio-miftahfqih.vercel.app/)
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
 - [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [DUN]
